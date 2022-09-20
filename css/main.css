@@ -1313,13 +1313,6 @@
      position: relative;
  }
  
- .section-intro.has-bottom-sep::after {
-     display: inline-block;
-     height: 1px;
-     width: 240px;
-     background-color: rgba(0, 0, 0, 0.1);
-     text-align: center;
- }
  
  
  /* -------------------------------------------------------------------
@@ -1831,7 +1824,7 @@
  
  .home-content__main {
      padding-right: 300px;
-     padding-bottom: 150px;
+     padding-bottom: 130px;
      position: relative;
  }
  
@@ -1839,7 +1832,7 @@
      position: absolute;
      right: 0;
      bottom: 2.1rem;
-     padding-bottom: 175px;
+     padding-bottom: 155px;
      text-align: center;
  }
  
@@ -1864,7 +1857,7 @@
  .home-content__scroll {
      position: absolute;
      left: .6rem;
-     bottom: -13.2rem;
+     bottom: -10.2rem;
  }
  
  .home-content__scroll a {
@@ -3124,10 +3117,6 @@
  
  .s-contact .section-intro p {
      color: rgba(255, 255, 255, 0.5);
- }
- 
- .s-contact .section-intro.has-bottom-sep::after {
-     background-color: rgba(255, 255, 255, 0.1);
  }
  
  .s-contact .form-field {
