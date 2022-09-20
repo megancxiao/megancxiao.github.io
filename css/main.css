@@ -1831,6 +1831,7 @@
  
  .home-content__main {
      padding-right: 300px;
+     padding-bottom: 150px;
      position: relative;
  }
  
@@ -1838,6 +1839,7 @@
      position: absolute;
      right: 0;
      bottom: 2.1rem;
+     padding-bottom: 175px;
      text-align: center;
  }
  
@@ -2289,6 +2291,7 @@
  .timeline__block {
      position: relative;
      padding-left: 8rem;
+     padding-bottom: 2rem;
      min-height: 12.8rem;
  }
  
